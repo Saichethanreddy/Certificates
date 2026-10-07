@@ -13,7 +13,7 @@ This repository contains my professional, technical, and academic certificates.
 
 ## 📂 Certificates
 
-- [Python Certificate](./Python_Certificate.pdf)
-- [Machine Learning Certificate](./Machine_Learning_Certificate.pdf)
-- [Web Development Certificate](./Web_Development_Certificate.pdf)
-- [AWS Certificate](./AWS_Certificate.pdf)
+- [AI in Action - Practical Machine Learning with Python.PDF](./AI_in_Action__Practical_Machine_Learning_with_Python.PDF)
+- [Oracle Data Platform 2025 Certified Foundations Associate ](./Oracle_Certificate.pdf)
+- [Programming in Java](./Programming_in_Java.pdf)
+- [Database Management System](./DBMS_Certificate.pdf)
